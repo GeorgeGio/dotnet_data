@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "fDB5gsJ4LSZqsGoM/kecUDpRY++ENPQ608t1B3ChJeg1mubgVGM4Z1h9oQRntiPi3awSi0+s1+UOaSZreFINag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Helena MacNeary\\Desktop\\c# work\\c# work.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Helena MacNeary\\.nuget\\packages\\microsoft.data.sqlite\\6.0.1\\microsoft.data.sqlite.6.0.1.nupkg.sha512",
+    "C:\\Users\\Helena MacNeary\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.1\\microsoft.data.sqlite.core.6.0.1.nupkg.sha512",
+    "C:\\Users\\Helena MacNeary\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\Helena MacNeary\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\Helena MacNeary\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\Helena MacNeary\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\Helena MacNeary\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.115.5\\stub.system.data.sqlite.core.netstandard.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\Helena MacNeary\\.nuget\\packages\\system.data.sqlite.core\\1.0.115.5\\system.data.sqlite.core.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\Helena MacNeary\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
